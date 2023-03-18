@@ -1,0 +1,25 @@
+#image{
+  max-width: 100%;
+  max-height: 100%;
+  margin: auto;
+  height: auto;
+}
+img{
+display: block;
+justify-content: center;
+}
+body #main{
+  padding: 1% 5% 1% 5%;
+border-radius: 10px;  background-color:lightgrey;
+}
+#title, #img-caption, #link{
+text-align: center;
+}
+#img-div{ background-color:white;
+padding: 5% 5% 2% 5%;
+border-radius: 10px; 
+}
+#tribute-info{
+  padding-right: 5%;
+  padding-left: 5%;
+}
